@@ -1,10 +1,10 @@
 ## About Me:
 
-Hello, i am Chris Otewa a Supply chain management major with a passion for Sustainability | Blockchain Development | Web 3.
+Hello, i am Chris Otewa a Supply chain management major with a passion for Fullstack Web3 Development | Blockchain for businesses | Sustainainability.
 
 ## Experience:
 
-I am currently, relearning the basics of web development(HTML, CSS and Javascript) with the aim of fully grasping the necessary prerequisites for smooth transition into Blockchain/Web3 development.
+I am currently, relearning the basics of web development(HTML, CSS and Javascript) with the aim of fully grasping the necessary prerequisites for smooth transition into fullstack Web3 development.
 
 ## Collaborations:
 
