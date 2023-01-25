@@ -1,6 +1,6 @@
 ## About Me:
 
-Hello, i am Chris Otewa a Supply chain management major with a passion for Fullstack Web3 Development | Blockchain for businesses | Sustainainability.
+Hello, i am Chris Otewa a Supply chain management major with a passion for Fullstack Web3 Development | Blockchain for businesses | Sustainability.
 
 ## Experience:
 
