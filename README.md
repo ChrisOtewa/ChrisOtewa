@@ -10,13 +10,7 @@ I am currently, relearning the basics of web development(HTML, CSS and Javascrip
 
 I’m looking to collaborate on projects that aim at intergrating Blockchain into the management of sustainable supply chains.
 
-## Contacts:
-
-[Email](chrismj26@gmail.com)
-  
-[Twitter](https://twitter.com/ChrisOtewa)
-
-[LinkedIn](https://www.linkedin.com/in/chrisotewa)
+## Contacts: [Email](chrismj26@gmail.com) [Twitter](https://twitter.com/ChrisOtewa) [LinkedIn](https://www.linkedin.com/in/chrisotewa)
 
 
 <!---
