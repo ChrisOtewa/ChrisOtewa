@@ -12,11 +12,11 @@ I’m looking to collaborate on projects that aim at intergrating Blockchain int
 
 ## Contacts:
 
-Email: chrismj26@gmail.com
+[Email]: chrismj26@gmail.com
   
-Twitter: https://twitter.com/ChrisOtewa 
+[Twitter]: https://twitter.com/ChrisOtewa 
 
-LinkedIn: https://www.linkedin.com/in/chrisotewa
+[LinkedIn]: (https://www.linkedin.com/in/chrisotewa)
 
 
 <!---
